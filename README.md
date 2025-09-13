@@ -1,5 +1,5 @@
 # ℹ️ About Me:
-I am a programmer with 8 years of experience, I use various programming languages. I create CRM systems of varying complexity.
+I am a programmer with 4+ years of work experience, I use various programming languages. I create CRM systems of varying complexity.
 
 
 ## 🌐 Socials:
