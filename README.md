@@ -10,7 +10,7 @@ CRM platforms. Focused on clean architecture, performance, and reliability.
 - Containerization with **Docker**
 
 **What I'm currently working on:**
-- [ibus-smartpinyin](https://github.com/xierongchuan/ibus-libpinyin) — a Chinese input method engine for Linux (C++, IBus)
+- [ibus-smartpinyin](https://github.com/xierongchuan/ibus-smartpinyin) — a Chinese input method engine for Linux (C++, IBus)
 
 ### Connect
 
