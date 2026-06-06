@@ -10,8 +10,8 @@ CRM platforms. Focused on clean architecture, performance, and reliability.
 - Containerization with **Docker/Podman**
 
 **What I'm currently working on:**
-- [ibus-smartpinyin](https://github.com/xierongchuan/ibus-smartpinyin) — a Chinese input method engine for Linux (C++, IBus)
 - [Karpender](https://github.com/xierongchuan/karpender) — a Voice privacy tool for PipeWire with anonymization DSP and a virtual microphone (Rust, PipeWire) 
+- [ibus-smartpinyin](https://github.com/xierongchuan/ibus-smartpinyin) — a Chinese input method engine for Linux (C++, IBus)
 
 ### Connect
 
