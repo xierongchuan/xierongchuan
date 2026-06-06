@@ -1,6 +1,6 @@
 ## Hey, I'm Rongchuan Xie 👋
 
-Software Engineer with 5+ years of experience building scalable backend systems and 
+Software Engineer with 5 years of experience building scalable backend systems and 
 CRM platforms. Focused on clean architecture, performance, and reliability.       
 
 **What I work with:**
