@@ -1,13 +1,13 @@
-## Hey, I'm Rongchuan Xie 👋                                                        
-   
+## Hey, I'm Rongchuan Xie 👋
+
 Software Engineer with 5+ years of experience building scalable backend systems and 
 CRM platforms. Focused on clean architecture, performance, and reliability.       
 
 **What I work with:**
 - Backend development with **PHP/Laravel** and **Rust**
-- Message queues and async processing
 - Databases: **PostgreSQL**, **Redis**
 - Containerization with **Docker/Podman**
+- AI agent development and business automation solutions.
 
 **What I'm currently working on:**
 - [Karpender](https://github.com/xierongchuan/karpender) — a Voice privacy tool for PipeWire with anonymization DSP and a virtual microphone (Rust, PipeWire) 
