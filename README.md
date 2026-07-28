@@ -1,4 +1,4 @@
-## Hey, I'm Rongchuan Xie 👋
+## Hey, I'm Temur 👋
 
 Software Engineer with 5 years of experience building scalable backend systems and 
 CRM platforms. Focused on clean architecture, performance, and reliability.       
