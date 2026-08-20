@@ -4,7 +4,7 @@ Software Engineer with 5 years of experience building scalable backend systems a
 CRM platforms. Focused on clean architecture, performance, and reliability.       
 
 **What I work with:**
-- Backend development with **PHP/Laravel** and **Rust**
+- Backend development with **PHP/Laravel** and **C/Rust**
 - Databases: **PostgreSQL**, **Redis**
 - Containerization with **Docker/Podman**
 - AI agent development and business automation solutions.
